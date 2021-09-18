@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "139277643743",
+    "project_id": "foodapp-2021",
+    "storage_bucket": "foodapp-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139277643743:android:b5c24121ea656e8e8ede6a",
+        "android_client_info": {
+          "package_name": "com.filipboca.diningbold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139277643743-6go5ojgu0chfur20ir8eafk9irskogjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANO482h2ND0NCrEZgxMScR7H05EuTi9zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139277643743-6go5ojgu0chfur20ir8eafk9irskogjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139277643743-h124kpqotnesvm51peqgkfing0hejj2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.filipboca.DiningBold"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
